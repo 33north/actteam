@@ -39,3 +39,23 @@ A sub-ministry within VAY SC is Activities Team.  The purpose of the ministry is
   - Gantt Charts
 #### Documentation
   - SOPs
+  - Version Control
+
+
+====================Brainstorming====================
+File Structure
+- Resources
+- MeetingAgenda
+- OrgActivities
+  - OA01
+  - OA02
+  - OA03
+  - OA04
+- Icebreakers
+  - 01 WedPM
+  - 02 ThuPM
+  - 03 FriPM
+  - 04 SatPM
+- WaterActivities
+
+- InventoryList/EquipmentList/SupplyList? Excel file
